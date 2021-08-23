@@ -1,3 +1,5 @@
 master web
 master web1
 master web2
+newToMaster command
+newToMaster command 2
