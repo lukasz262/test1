@@ -5,3 +5,5 @@ newToMaster command
 newToMaster command 2
 merge master
 web add
+console add 1
+console add 2
