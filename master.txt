@@ -5,3 +5,5 @@ newToMaster command
 newToMaster command 2
 merge master
 web add
+web add 2
+web add 3
