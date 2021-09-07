@@ -5,5 +5,10 @@ newToMaster command
 newToMaster command 2
 merge master
 web add
+<<<<<<< HEAD
 console add 1
 console add 2
+=======
+web add 2
+web add 3
+>>>>>>> 44feb130d10bc4a2c07a2100724e8365d0abfd32
