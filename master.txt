@@ -4,3 +4,4 @@ master web2
 newToMaster command
 newToMaster command 2
 merge master
+web add
