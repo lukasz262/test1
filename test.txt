@@ -1,6 +1,1 @@
-test
-test3
-console add 1
-test web 1
-test web 2
-test web 3
+web 1
